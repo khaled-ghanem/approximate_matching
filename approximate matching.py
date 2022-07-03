@@ -1,16 +1,4 @@
-#NAMES AND IDs 
-#Student 1:
-#Name: Khaled Mohamed Soliman Ghanem 
-#ID: 20198027 
-#Student 2: 
-#Name: Anas Barakat Taha 
-#ID: 20198015 
-#Student 3: 
-#Name: Mahmoud Talaat 
-#ID: 20198105 
-#Student 4: 
-#Name: Ziad Ayman Mohamed  
-#ID: 20198045
+
 
 
 def approximate_matching(x, y):
